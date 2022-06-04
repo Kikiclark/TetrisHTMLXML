@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="tetrominoi.xsl"?>
+<Blokovi>
+   <Blok>
+      <Slovo>J</Slovo>
+      <SVG>Tetris_J.svg</SVG>
+      <FunkySVG>Tetromino_J.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✭✭✭✰</Rejting>
+	  <Misljenje>Sve najbolje. Dobra boja, može bit koristan, dosta je dobro kada 3 linije riješi.</Misljenje>
+  </Blok>
+  <Blok>
+      <Slovo>L</Slovo>
+      <SVG>Tetris_L.svg</SVG>
+      <FunkySVG>Tetromino_L.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✭✭✰✰</Rejting>
+	  <Misljenje>Malo pokušava kopirati J, mislim da ima komplekse neke. Ali općenito okej tip. Da malo samopouzdanja dobije, bio bi sam svoj - najbolja verzija sebe :)</Misljenje>
+  </Blok>
+  <Blok>
+      <Slovo>O</Slovo>
+      <SVG>Tetris_O.svg</SVG>
+      <FunkySVG>Tetromino_O.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✭✭✭✰</Rejting>
+	  <Misljenje>Unikatan. Ne slaže se najbolje sa ostalima ali ja ga cijenim. Kad se nađe sa svojima je uvijek zabavan tip, stvarno ovisi o tome kakav si. </Misljenje>
+  </Blok>
+  <Blok>
+      <Slovo>S</Slovo>
+      <SVG>Tetris_S.svg</SVG>
+      <FunkySVG>Tetromino_S.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✰✰✰✰</Rejting>
+	  <Misljenje>Dosta naporan tip. Moraš se aktivno potruditi da ga ubaciš u grupu, u protivnom uništi cijelu stvar.</Misljenje>
+  </Blok>
+  <Blok>
+      <Slovo>Z</Slovo>
+      <SVG>Tetris_Z.svg</SVG>
+      <FunkySVG>Tetromino_Z.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✭✰✰✰</Rejting>
+	  <Misljenje>Bolji je od svog brata. Ima kul ime i jedini problem je što je pokupio previše od S. Ima puno potencijala, trudi se. Pozz, sve najbolje, bez hejta.</Misljenje>
+  </Blok>
+  <Blok>
+      <Slovo>I</Slovo>
+      <SVG>Tetris_I.svg</SVG>
+      <FunkySVG>Tetromino_I.svg</FunkySVG>
+      <BrojBlokova>4</BrojBlokova>
+      <Rejting>✭✭✭✭✭</Rejting>
+	  <Misljenje>Sve super, uvijek počisti nered iza sebe, nije beskičmenjak kao neki, ravan ko' strijela.</Misljenje>
+  </Blok>
+</Blokovi>
